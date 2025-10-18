@@ -7,27 +7,29 @@ The design is defined by its dramatic hyperbolic paraboloid roof, seamless integ
 ## Project Showcase
 
 ### Site & Context
-![Site Plan](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_site_context_0_20240321_042831.jpeg)
+![Site Plan](generated_images/Site%20Plan%20and%20Contextual%20Analysis.png)
 
 ### Architectural Plans
 | Main Level | Second Level | Basement Level |
 | :---: | :---: | :---: |
-| ![Main Level Floor Plan](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_architectural_plans_0_20240321_042831.jpeg) | ![Second Level Floor Plan](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_architectural_plans_1_20240321_042831.jpeg) | ![Basement Level Floor Plan](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_architectural_plans_2_20240321_042831.jpeg) |
+| ![Main Level Floor Plan](generated_images/Main%20Level%20Floor%20Plan.png) | ![Second Level Floor Plan](generated_images/Second%20Level%20Floor%20Plan.png) | ![Basement Level Floor Plan](generated_images/Basement%20Level%20Floor%20Plan.png) |
 
 ### Exterior Elevations
 | South Elevation | West Elevation | North Elevation | East Elevation |
 | :---: | :---: | :---: | :---: |
-| ![South Elevation](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_exterior_elevations_0_20240321_042831.jpeg) | ![West Elevation](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_exterior_elevations_1_20240321_042831.jpeg) | ![North Elevation](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_exterior_elevations_2_20240321_042831.jpeg) | ![East Elevation](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_exterior_elevations_3_20240321_042831.jpeg) |
+| ![South Elevation](generated_images/South%20Elevation.png) | ![West Elevation](generated_images/West%20Elevation.png) | ![North Elevation](generated_images/North%20Elevation.png) | ![East Elevation](generated_images/East%20Elevation.png) |
 
 ### Perspective Renderings
 | Southwest Perspective | Aerial View (Northwest) | Forest Approach | City Overlook (Sunset) |
 | :---: | :---: | :---: | :---: |
-| ![Southwest Perspective](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_perspective_renderings_0_20240321_042831.jpeg) | ![Aerial View](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_perspective_renderings_1_20240321_042831.jpeg) | ![Forest Approach](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_perspective_renderings_2_20240321_042831.jpeg) | ![City Overlook](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_perspective_renderings_3_20240321_042831.jpeg) |
+| ![Southwest Perspective](generated_images/Three-Quarter%20Exterior%20View%20(Southwest%20Perspective).png) | ![Aerial View](generated_images/Aerial%20Perspective%20View%20(Northwest%20Angle).png) | ![Forest Approach](generated_images/Approach%20View%20from%20Access%20Road.png) | ![City Overlook](generated_images/Sunset%20View%20from%20City%20Overlook.png) |
 
 ### Interior Visualizations
+<!-- Interior visualization images not yet available in generated_images/ directory
 | Sunken Living Room | Master Suite | Kitchen |
 | :---: | :---: | :---: |
-| ![Living Room](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_interior_visualizations_0_20240321_042831.jpeg) | ![Master Suite](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_interior_visualizations_1_20240321_042831.jpeg) | ![Kitchen](https://storage.googleapis.com/agent-tools-prod/images/project_showcase_interior_visualizations_2_20240321_042831.jpeg) |
+| ![Living Room](path/to/living-room.png) | ![Master Suite](path/to/master-suite.png) | ![Kitchen](path/to/kitchen.png) |
+-->
 
 ---
 
