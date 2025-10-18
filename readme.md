@@ -7,29 +7,32 @@ The design is defined by its dramatic hyperbolic paraboloid roof, seamless integ
 ## Project Showcase
 
 ### Site & Context
-![Site Plan](generated_images/Site%20Plan%20and%20Contextual%20Analysis.png)
+![Site Plan](generated_images/site_plan_contextual_analysis.png)
 
 ### Architectural Plans
 | Main Level | Second Level | Basement Level |
 | :---: | :---: | :---: |
-| ![Main Level Floor Plan](generated_images/Main%20Level%20Floor%20Plan.png) | ![Second Level Floor Plan](generated_images/Second%20Level%20Floor%20Plan.png) | ![Basement Level Floor Plan](generated_images/Basement%20Level%20Floor%20Plan.png) |
+| ![Main Level Floor Plan](generated_images/main_level_floor_plan.png) | ![Second Level Floor Plan](generated_images/second_level_floor_plan.png) | ![Basement Level Floor Plan](generated_images/basement_level_floor_plan.png) |
 
 ### Exterior Elevations
 | South Elevation | West Elevation | North Elevation | East Elevation |
 | :---: | :---: | :---: | :---: |
-| ![South Elevation](generated_images/South%20Elevation.png) | ![West Elevation](generated_images/West%20Elevation.png) | ![North Elevation](generated_images/North%20Elevation.png) | ![East Elevation](generated_images/East%20Elevation.png) |
+| ![South Elevation](generated_images/south_elevation.png) | ![West Elevation](generated_images/west_elevation.png) | ![North Elevation](generated_images/north_elevation.png) | ![East Elevation](generated_images/east_elevation.png) |
 
 ### Perspective Renderings
 | Southwest Perspective | Aerial View (Northwest) | Forest Approach | City Overlook (Sunset) |
 | :---: | :---: | :---: | :---: |
-| ![Southwest Perspective](generated_images/Three-Quarter%20Exterior%20View%20(Southwest%20Perspective).png) | ![Aerial View](generated_images/Aerial%20Perspective%20View%20(Northwest%20Angle).png) | ![Forest Approach](generated_images/Approach%20View%20from%20Access%20Road.png) | ![City Overlook](generated_images/Sunset%20View%20from%20City%20Overlook.png) |
+| ![Southwest Perspective](generated_images/three_quarter_exterior_southwest.png) | ![Aerial View](generated_images/aerial_perspective_northwest.png) | ![Forest Approach](generated_images/approach_view_access_road.png) | ![City Overlook](generated_images/sunset_view_city_overlook.png) |
 
 ### Interior Visualizations
-<!-- Interior visualization images not yet available in generated_images/ directory
-| Sunken Living Room | Master Suite | Kitchen |
-| :---: | :---: | :---: |
-| ![Living Room](path/to/living-room.png) | ![Master Suite](path/to/master-suite.png) | ![Kitchen](path/to/kitchen.png) |
--->
+| Sunken Living Room |
+| :---: |
+| ![Living Room](generated_images/living_room.png) |
+
+### Additional Renders
+| Aerial View | Driveway Approach | Exterior View | Waterfall Night View |
+| :---: | :---: | :---: | :---: |
+| ![Aerial View](generated_images/aerial_view.png) | ![Driveway](generated_images/driveway.png) | ![Exterior](generated_images/exterior.png) | ![Waterfall Night](generated_images/waterfall_night.png) |
 
 ---
 
